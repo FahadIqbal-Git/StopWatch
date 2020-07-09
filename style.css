@@ -1,0 +1,63 @@
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 1px 4px whitesmoke;
+    margin-top: 10px !important;
+}
+.c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 170px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+.c1{
+    background-image: url(https://lh3.googleusercontent.com/proxy/x569BNyau8xengQnOcBakquwVR4_ZNA3jGBmt0vGRlIzMAKahVpzeK6m8TtA7pQb6BqcsltNwmTqp4KEKmhn8OVlZwwTIcgDuY79r0iEzr4eeZ3jDGejBfke0mlXWwDd0_y2tJYK3TnnnI1slAMrkmMCaq8);
+    background-size: cover;
+    opacity: 100%;
+    width: 300px !important;
+    height: 185px !important;
+    border-radius: 60px;
+    box-shadow: 1px 1px 4px black;
+}
+h1{
+    font-weight: bolder;
+    display: inline-block;
+    color: black;
+    margin-top: 15px !important;
+    background-color: white;
+    width: 60px !important;
+    box-shadow: 1px 1px 4px black;
+    border-radius: 20px;
+}
+
+/* h2{
+    font-weight: bolder;
+    display: inline-block;
+    color: black;
+    margin-top: 15px !important;
+    background-color: white;
+    width: 60px !important;
+    box-shadow: 1px 1px 4px black;
+    border-radius: 30px;
+}
+h3{
+    font-weight: bolder;
+    display: inline-block;
+    color: black;
+    margin-top: 15px !important;
+    background-color: white;
+    width: 50px !important;
+    box-shadow: 1px 1px 4px black;
+    border-radius: 30px !important;
+} */
+.btn-primary{
+    color: solid gray !important;
+    border-radius: 50px !important;
+    box-shadow: 1px 1px 4px black;
+    margin: 2px;
+    margin-top: 20px !important;
+    font-size: large !important;
+}
